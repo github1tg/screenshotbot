@@ -37,6 +37,11 @@ $ source venv/bin/activate
 $ pip3 install -U -r requirements.txt
 ```
 
+
+# Diploy On Heroku
+https://github.com/github1tg/screenshotbot
+
+
 ### Environment Variables
 
 Properly setup the environment variables or populate `config.py` with the values. Setting up environment variables is advised as some of the values are sensitive data, and should be kept secret.
