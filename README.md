@@ -39,7 +39,7 @@ $ pip3 install -U -r requirements.txt
 
 
 # Diploy On Heroku
-https://github.com/github1tg/screenshotbot
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/github1tg/screenshotbot)
 
 
 ### Environment Variables
