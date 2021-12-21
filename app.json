@@ -9,7 +9,7 @@
    "Trim Video",
    "without downloading the entire file"
   ],
-  "repository": "https://github.com/github1tg/FILE_ANIMATING",
+  "repository": "https://github.com/github1tg/screenshotbot",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
